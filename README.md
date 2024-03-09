@@ -16,6 +16,9 @@ The game is built using HTML5 `<canvas>` element to render graphics on the web p
 
 Basic CSS styles are applied to the canvas element to center it on the page and provide a background color.
 
+<img width="1002" alt="Screenshot 2024-03-09 at 3 24 06 AM" src="https://github.com/shuddha2021/Dx-Ball-Game/assets/81951239/80a25b53-3bc8-43c8-9ada-9bba7905f7bd">
+
+
 ### JavaScript
 
 JavaScript is used to implement the game logic and handle user input. Here's a breakdown of the key components and functionalities:
